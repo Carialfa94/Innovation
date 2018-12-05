@@ -1,0 +1,68 @@
+#content {
+font-size : 40px;
+}
+a {
+font-size : 200%;
+color : white;
+text-align : center;
+}
+#nav, #footer, #option {
+text-align : center;
+padding : 0.5em 0;
+}
+body, html {
+background-image : url("https://images.unsplash.com/photo-1488229297570-58520851e868?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9");
+background-position : center;
+background-repeat : no-repeat;
+background-size : cover;
+background-attachment : fixed;
+margin : 0 auto;
+padding-top : 50px;
+padding-right : 30px;
+padding-bottom : 50px;
+padding-left : 80px;
+}
+h1 {
+font-family : 'DancingScriptRegular';
+color : white;
+text-align : right;
+font-weight : bold;
+font-style : normal;
+font-size : 800%;
+margin : 0;
+padding : 0;
+}
+h3 {
+font-family : 'DancingScriptRegular';
+color : white;
+text-align : center;
+font-weight : bold;
+font-style : normal;
+font-size : 500%;
+}
+h2 {
+font-family : 'LobsterRegular';
+color : #FFE4B5;
+text-align : right;
+}
+p {
+font-family : 'DancingScriptRegular';
+text-align : left;
+font-weight : 900;
+font-size : 300%;
+padding-top : 50px;
+padding-right : 30px;
+padding-bottom : 50px;
+padding-left : 80px;
+}
+mark {
+color : yellow;
+}
+li {
+text-align : center;
+font-family : 'LobsterRegular';
+font-weight : normal;
+font-style : normal;
+display : inline;
+padding : 0.5em;
+}
